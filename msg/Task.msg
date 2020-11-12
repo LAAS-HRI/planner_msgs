@@ -1,0 +1,9 @@
+uint32 id
+string name
+string[] parameters
+string agent
+uint32[] successors
+uint32[] predecessors
+uint32 decomposition_of
+uint32 decomposition_number
+uint32[] decomposed_into
