@@ -1,1 +1,2 @@
-AgentTasksRequest[] agent_tasks
+AgentTasksRequest[] controllable_agent_tasks
+AgentTasksRequest[] uncontrollable_agent_tasks
